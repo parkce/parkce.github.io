@@ -1,3 +1,5 @@
+remote_theme: thelehhman/plainwhite-jekyll
+
 title: Your awesome title
 author: parkce
 email: parkce3@gmail.com
@@ -57,4 +59,4 @@ plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
 
-remote_theme: thelehhman/plainwhite-jekyll
+
