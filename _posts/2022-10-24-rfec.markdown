@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "[W] Factual Error Correction for Abstractive Summaries Using Entity Retrieval"
+date:   2022-10-24 00:00:00 +00:00
+categories: research
+author: "Cheoneum Park"
+authors: "Hwanhee Lee, <strong>Cheoneum Park</strong>, Seunghyun Yoon, Trung Bui, Franck Dernoncourt, Juae Kim, Kyomin Jung"
+venue: "Workshop on Natural Language Generation, Evaluation, and Metrics (GEM)"
+paper: https://aclanthology.org/2022.gem-1.41/
+---

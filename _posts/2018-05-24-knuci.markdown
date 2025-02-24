@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "[W] KNU CI System at SemEval-2018 Task4: Character Identification by Solving Sequence-Labeling Problem"
+date:   2018-05-24 00:00:00 +00:00
+categories: research
+author: "Cheoneum Park"
+authors: "<strong>Cheoneum Park</strong>, Heejun Song, Changki Lee"
+venue: "The 12th International Workshop on Semantic Evaluation"
+paper: https://aclanthology.org/S18-1107/
+---

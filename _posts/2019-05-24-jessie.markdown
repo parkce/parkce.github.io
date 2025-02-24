@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "[W] ThisIsCompetition at SemEval-2019 Task 9: BERT is unstable for out-of-domain samples"
+date:   2019-05-24 00:00:00 +00:00
+categories: research
+author: "Cheoneum Park"
+authors: "<strong>Cheoneum Park</strong>, Juae Kim, Hyeon-gu Lee, Reinald Kim Amplayo, Harksoo Kim, Jungyun Seo, Changki Lee"
+venue: "The 13th International Workshop on Semantic Evaluation"
+paper: https://aclanthology.org/S19-2220/
+---

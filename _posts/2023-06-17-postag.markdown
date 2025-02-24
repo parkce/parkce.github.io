@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "[J] Robust Multi-task Learning-based Korean POS Tagging to Overcome Word Spacing Errors"
+date:   2023-06-17 00:00:00 +00:00
+categories: journal 
+author: "Cheoneum Park"
+authors: "<strong>Cheoneum Park</strong>, Juae Kim"
+venue: "ACM TALLIP"
+paper: https://dl.acm.org/doi/10.1145/3591206
+---

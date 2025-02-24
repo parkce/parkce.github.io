@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "[C] CrossAug: A Contrastive Data Augmentation Method for Debiasing Fact Verification Models"
+date:   2021-10-30 00:00:00 +00:00
+# image: /images/3dgaussian.jpg
+categories: research
+author: "Cheoneum Park"
+authors: "Minwoo Lee, Seungpil Won, Juae Kim, Hwanhee Lee, <strong>Cheoneum Park</strong>, Kyomin Jung"
+venue: "CIKM"
+paper: https://dl.acm.org/doi/abs/10.1145/3459637.3482078
+# code: https://github.com/leonidk/fmb-plus
+# website: https://leonidk.github.io/fmb-plus
+---
+<!-- We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more.  -->

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "[W] SEx BiST: A Multi-Source Trainable Parser with Deep Contextualized Lexical Representations"
+date:   2018-10-24 00:00:00 +00:00
+categories: research
+author: "Cheoneum Park"
+authors: "KyungTae Lim, <strong>Cheoneum Park</strong>, Changki Lee, Thierry Poibeau"
+venue: "The CoNLL 2018 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies"
+paper: https://aclanthology.org/K18-2014/
+---

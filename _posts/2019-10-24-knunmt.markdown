@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "[W] KNU-HYUNDAI’s NMT system for Scientific Paper and Patent Tasks on WAT 2019"
+date:   2019-10-24 00:00:00 +00:00
+categories: research
+author: "Cheoneum Park"
+authors: "<strong>Cheoneum Park</strong>, Young-Jun Jung, Kihoon Kim, Geonyeong Kim, Jae-Won Jeon, Seongmin Lee, Junseok Kim, Changki Lee"
+venue: "The 6th Workshop on Asian Translation"
+paper: https://aclanthology.org/D19-5208/
+---
