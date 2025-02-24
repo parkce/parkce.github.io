@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "QPaug: Question and Passage Augmentation for Open-Domain Question Answering of LLMs"
+title:  "[C] QPaug: Question and Passage Augmentation for Open-Domain Question Answering of LLMs"
 date:   2024-11-20 22:21:59 +00:00
 # image: /images/pairwise.png
 categories: research
