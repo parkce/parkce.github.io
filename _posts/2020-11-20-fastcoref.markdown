@@ -6,7 +6,7 @@ date:   2020-11-20 22:21:59 +00:00
 categories: research
 author: "Cheoneum Park"
 authors: "<strong>Cheoneum Park</strong>, Jamin Shin, Sungjoon Park, Joonho Lim, Changki Lee"
-venue: "Findings of the Association for Computational Linguistics: EMNLP 2020"
+venue: "Findings of EMNLP"
 paper: https://aclanthology.org/2020.findings-emnlp.237/
 # code: https://github.com/leonidk/fmb-plus
 # website: https://leonidk.github.io/fmb-plus

@@ -6,7 +6,7 @@ date:   2024-11-20 22:21:59 +00:00
 categories: research
 author: "Cheoneum Park"
 authors: "Minsang Kim, <strong>Cheoneum Park</strong>, Seung Jun Baek"
-venue: "Findings of the Association for Computational Linguistics: EMNLP 2024"
+venue: "Findings of EMNLP"
 paper: https://aclanthology.org/2024.findings-emnlp.527/
 # code: https://github.com/leonidk/pairwise
 # website: https://leonidk.github.io/pairwise
