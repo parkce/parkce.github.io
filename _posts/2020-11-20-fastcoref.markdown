@@ -10,5 +10,5 @@ venue: "Findings of the Association for Computational Linguistics: EMNLP 2020"
 arxiv: https://aclanthology.org/2020.findings-emnlp.237/
 # code: https://github.com/leonidk/fmb-plus
 # website: https://leonidk.github.io/fmb-plus
-<!-- ---
-We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more.  -->
+---
+<!-- We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more.  -->
