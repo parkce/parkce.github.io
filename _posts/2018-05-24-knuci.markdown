@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[W] KNU CI System at SemEval-2018 Task4: Character Identification by Solving Sequence-Labeling Problem"
+title:  "[2W] KNU CI System at SemEval-2018 Task4: Character Identification by Solving Sequence-Labeling Problem"
 date:   2018-05-24 00:00:00 +00:00
 categories: research
 author: "Cheoneum Park"

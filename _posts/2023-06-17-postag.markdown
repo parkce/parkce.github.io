@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[J] Robust Multi-task Learning-based Korean POS Tagging to Overcome Word Spacing Errors"
+title:  "[15J] Robust Multi-task Learning-based Korean POS Tagging to Overcome Word Spacing Errors"
 date:   2023-06-17 00:00:00 +00:00
 categories: journal 
 author: "Cheoneum Park"

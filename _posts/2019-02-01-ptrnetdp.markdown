@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[J] Multitask Pointer Network for Korean Dependency Parsing"
+title:  "[4J] Multitask Pointer Network for Korean Dependency Parsing"
 date:   2019-02-01 00:00:00 +00:00
 categories: journal
 author: "Cheoneum Park"

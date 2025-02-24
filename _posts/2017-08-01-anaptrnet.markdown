@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[J] Anaphora Resolution with Pointer Networks"
+title:  "[1J] Anaphora Resolution with Pointer Networks"
 date:   2017-08-01 00:00:00 +00:00
 categories: journal
 author: "Cheoneum Park"

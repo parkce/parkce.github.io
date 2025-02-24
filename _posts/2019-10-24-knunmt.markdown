@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[W] KNU-HYUNDAI’s NMT system for Scientific Paper and Patent Tasks on WAT 2019"
+title:  "[7W] KNU-HYUNDAI’s NMT system for Scientific Paper and Patent Tasks on WAT 2019"
 date:   2019-10-24 00:00:00 +00:00
 categories: research
 author: "Cheoneum Park"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[J] Multi-task learning with contextual hierarchical attention for Korean coreference resolution"
+title:  "[14J] Multi-task learning with contextual hierarchical attention for Korean coreference resolution"
 date:   2023-01-12 00:00:00 +00:00
 categories: journal 
 author: "Cheoneum Park"

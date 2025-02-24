@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[J] VS^3-NET: Neural Variational Inference for Machine Reading Comprehension"
+title:  "[8J] VS^3-NET: Neural Variational Inference for Machine Reading Comprehension"
 date:   2019-12-01 00:00:00 +00:00
 categories: journal
 author: "Cheoneum Park"

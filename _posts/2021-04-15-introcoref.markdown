@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[D] Introduction to Coreference Resolution"
+title:  "[11D] Introduction to Coreference Resolution"
 date:   2021-04-15 00:00:00 +00:00
 categories: journal
 author: "Cheoneum Park"

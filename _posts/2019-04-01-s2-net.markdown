@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[J] S^2-NET Machine Reading Comprehension with SRUbased Self-matching Networks"
+title:  "[5J] S^2-NET Machine Reading Comprehension with SRUbased Self-matching Networks"
 date:   2019-04-01 00:00:00 +00:00
 categories: journal
 author: "Cheoneum Park"

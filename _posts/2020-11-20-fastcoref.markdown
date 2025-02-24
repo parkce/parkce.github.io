@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[C] Fast End-to-end Coreference Resolution for Korean"
+title:  "[9C] Fast End-to-end Coreference Resolution for Korean"
 date:   2020-11-20 22:21:59 +00:00
 # image: /images/3dgaussian.jpg
 categories: research

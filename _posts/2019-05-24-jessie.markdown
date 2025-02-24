@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[W] ThisIsCompetition at SemEval-2019 Task 9: BERT is unstable for out-of-domain samples"
+title:  "[6W] ThisIsCompetition at SemEval-2019 Task 9: BERT is unstable for out-of-domain samples"
 date:   2019-05-24 00:00:00 +00:00
 categories: research
 author: "Cheoneum Park"

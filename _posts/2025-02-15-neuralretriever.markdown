@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[D] Introduction to Neural Retriever"
+title:  "[20D] Introduction to Neural Retriever"
 date:   2025-02-15 00:00:00 +00:00
 categories: journal
 author: "Cheoneum Park"

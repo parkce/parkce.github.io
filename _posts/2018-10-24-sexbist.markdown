@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[W] SEx BiST: A Multi-Source Trainable Parser with Deep Contextualized Lexical Representations"
+title:  "[3W] SEx BiST: A Multi-Source Trainable Parser with Deep Contextualized Lexical Representations"
 date:   2018-10-24 00:00:00 +00:00
 categories: research
 author: "Cheoneum Park"
