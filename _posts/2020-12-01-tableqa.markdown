@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "[J] Korean TableQA: Structured Data Question Answering based on Span Prediction Style with S^3 -NET"
+date:   2020-12-01 00:00:00 +00:00
+categories: journal
+author: "Cheoneum Park"
+authors: "<strong>Cheoneum Park</strong>, Soyoon Park, Seungyoung Lim, Myungji Kim, Jooyoul Lee, Changki Lee"
+venue: "ETRI Journal"
+paper: https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2019-0189
+---

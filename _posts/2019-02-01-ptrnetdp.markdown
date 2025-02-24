@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "[J] Multitask Pointer Network for Korean Dependency Parsing"
+date:   2019-02-01 00:00:00 +00:00
+categories: journal
+author: "Cheoneum Park"
+authors: "Sangkeun Jung, Changki Lee, <strong>Cheoneum Park</strong>"
+venue: "ACM TALLIP"
+paper: https://dl.acm.org/doi/10.1145/3282442
+---

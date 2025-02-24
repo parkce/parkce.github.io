@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "[J] VS^3-NET: Neural Variational Inference for Machine Reading Comprehension"
+date:   2019-12-01 00:00:00 +00:00
+categories: journal
+author: "Cheoneum Park"
+authors: "<strong>Cheoneum Park</strong>, Heejun Song, Changki Lee"
+venue: "ETRI Journal"
+paper: https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2018-0467
+---
