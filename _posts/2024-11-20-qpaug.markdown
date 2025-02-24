@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "QPaug: Question and Passage Augmentation for Open-Domain Question Answering of LLMs"
+date:   2024-11-20 22:21:59 +00:00
+# image: /images/pairwise.png
+categories: research
+author: "Cheoneum Park"
+authors: "Minsang Kim, <strong>Cheoneum Park</strong>, Seung Jun Baek"
+venue: "Findings of the Association for Computational Linguistics: EMNLP 2024"
+arxiv: https://aclanthology.org/2024.findings-emnlp.527/
+# code: https://github.com/leonidk/pairwise
+# website: https://leonidk.github.io/pairwise
+<!-- --- -->
+<!-- We show how to perform efficient black-box optimization of algorithm configuration from user preferences. Results include Intel RealSense stereo cameras and a robot social navigation policy. -->
