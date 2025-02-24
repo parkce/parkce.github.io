@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "MaQA: Car Manual Question Answering as a Neural FAQ Classification Problem"
+date:   2024-12-27 00:00:00 +00:00
+categories: journal
+author: "Cheoneum Park"
+authors: "<strong>Cheoneum Park</strong>, Seohyeong Jeong, Juae Kim"
+venue: "Electronics"
+paper: https://www.mdpi.com/2079-9292/13/24/4972
+---

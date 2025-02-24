@@ -7,7 +7,7 @@ categories: research
 author: "Cheoneum Park"
 authors: "<strong>Cheoneum Park</strong>, Martial Hebert"
 venue: "COLING"
-arxiv: https://aclanthology.org/2025.coling-industry.63/
+paper: https://aclanthology.org/2025.coling-industry.63/
 # code: https://github.com/leonidk/modecfg
 # website: https://leonidk.github.io/modecfg
 # youtube: https://www.youtube.com/watch?v=r2426BR4r8o
