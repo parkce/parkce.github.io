@@ -2,7 +2,7 @@
 layout: post
 title:  "Discovering Multiple Algorithm Configurations"
 date:   2023-03-14 22:21:59 +00:00
-image: /images/modecfg.png
+# image: /images/modecfg.png
 categories: research
 author: "Leo Keselman"
 authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
