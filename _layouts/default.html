@@ -73,7 +73,7 @@
             <!-- <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td> -->
-            <td style="padding:1%;width:75%;vertical-align:middle">
+            <td style="padding:1%;padding-left:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
               {{post.authors}}
@@ -81,6 +81,9 @@
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               <br>
+              {% if post.paper %}
+              <a href="{{post.paper}}">paper</a> /
+              {% endif %}
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
               {% endif %}
@@ -131,7 +134,7 @@
             <!-- <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td> -->
-            <td style="padding:1%;width:75%;vertical-align:middle">
+            <td style="padding:1%;padding-left:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
               <em>{{post.categories}} {{post.course}}</em>
@@ -193,12 +196,12 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat != 'research' and cat != 'Intel' %}
+          {% if cat == 'domestic' %}
           <tr>
-            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+            <!-- <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-            </td>
-            <td style="padding:2.5%;width:75%;vertical-align:middle">
+            </td> -->
+            <td style="padding:1%;padding-left:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
               <em>{{post.categories}} {{post.course}}</em>
